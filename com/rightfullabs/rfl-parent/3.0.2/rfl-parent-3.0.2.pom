@@ -7,7 +7,6 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.2</version>
 		<relativePath/>
-		<!-- lookup parent from repository -->
 	</parent>
 
 	<groupId>com.rightfullabs</groupId>
@@ -174,5 +173,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
